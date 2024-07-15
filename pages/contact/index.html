@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <script src="https://kit.fontawesome.com/6baf9c22b9.js"crossorigin="anonymous"></script>
+</head>
+<body>
+    <header class="header">
+        <nav class="navigation">
+            <a href="../../index.html" class="navbutton">Home</a>
+            <a href="../aboutme/index.html" class="navbutton">About</a>
+            <a href="../contact/index.html" class="activebutton">Contact</a>
+            <a href="../otherwork/index.html" class="navbutton">Other Works</a>
+            <a href="../projects/index.html" class="navbutton">Projects</a>
+        </nav>
+    </header>
+    <br>
+    <br>
+    <br>
+    <div class="othermain">
+        <section class="contactsection">
+          <div class="container">
+            <h1>Message Me!</h1>
+            <div class="socialmedia">
+              <a href="https://facebook.com" target="_blank"
+                ><i class="fab fa-facebook-f"></i></a>
+              <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+              <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
+
+            <div class="contactinfo">
+              <p>Message me here:</p>
+            </div>
+  
+            <div class="contactform">
+              <h2>Send me a message</h2>
+              <form action="submit_form.php" method="POST">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required />
+  
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required />
+  
+                <label for="message">Message:</label>
+                <text area id="message" name="message" rows="4" required></text>
+  
+                <button type="submit">Send Message</button>
+              </form>
+            </div>
+          </div>
+        </section>
+        <footer>
+            <div class="socialmedia">
+              <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+              <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+              <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
+            <p>&copy;2024 nicollechoy. All rights reserved.</p>
+        </footer>
+      </div>
+</html>
