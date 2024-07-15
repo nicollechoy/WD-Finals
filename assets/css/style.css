@@ -147,7 +147,7 @@ body {
     text-align: left;
     flex-direction: column;
     margin-top: 8rem;
-    background-image: url('../img/bga.jpg');
+    background-image: url('../img/homepage.gif');
     background-size: cover;
     height: 700px;
     width: 100%;
@@ -175,7 +175,7 @@ body {
     text-align: right;
     flex-direction: column;
     padding: 3rem;
-    background-image: url('../img/bgb.jpg');
+    background-image: url('../img/homehomepage.gif');
     background-size: cover;
     height: 700px;
     width: 100%;
@@ -210,43 +210,31 @@ body {
     font-size: 0.9rem;
 }
 
-.footer {
+footer {
     background-color: #FFD1DF	;
-    padding:1.5px;
-    width: 100%;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    box-shadow: 0px -5px 15px rgba(0, 0, 0, 0.1);
-
-    & p{
-        margin-top: 0.5rem;
-    }
-}
-
-.footer-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    color: #fff;
     text-align: center;
-    margin-bottom: 1rem;
-}
+    padding: 1rem 0;
+    bottom: 0;
+    width: 100%;
+    padding-left: 250px;
+  }
+  
+.socialmedia {
+    margin-top: 1rem;
+  }
 
-.footer .social-media {
-    margin-top: 20px;
-}
-
-.footer .social-media a {
-    color: #ffffff;
-    margin: 0 10px;
-    font-size: 24px;
+.socialmedia a {
+    color: #ffe3ec;
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
     transition: color 0.3s ease;
-    margin-bottom: 5rem;
 }
 
-.footer .social-media a:hover {
-    color: #000000;
-}
+.socialmedia a:hover {
+    color: #fff3f7;
+  }
+
+.socialmedia a:hover i {
+    transform: scale(1.2);
+  } 
