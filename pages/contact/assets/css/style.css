@@ -6,6 +6,9 @@ body {
   font-family: "Poppins" sans-serif;
   padding: 0;
   margin: 0;
+  background-image: url('/pages/contact/assets/img/bgh.gif');
+  background-size: cover;
+  background-position: center;
 }
 
 * {
