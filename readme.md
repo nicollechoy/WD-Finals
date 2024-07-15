@@ -6,15 +6,14 @@
 <div align="center">
   <a href="https://github.com/nicollechoy/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="" width="100" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
-</div>
+This website works as a complete portfolio that shows off creativity and technical skills. It includes a summary of qualifications and experience, as well as specific project showcases with links to their repositories.</div>
 
 <br />
 
@@ -57,26 +56,24 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Welcome to my personal website! This project showcases my work and coursework from the Web Development with Client-Side Scripting class, highlighting what I’ve learned. It features five different pages with unique designs and interactive buttons that are fun and easy to use. My skills in HTML, CSS, and layout helped me create a user-friendly site that shows off my design and web development abilities.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The goal of this portfolio is to apply what I’ve learned in a practical and creative way. It serves as a professional tool to highlight my skills, past projects, and creativity while demonstrating my web design and development capabilities. This website acts as a digital resume and a way to share my skills with potential employers or clients.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Animated Cards
+- Hover Effects
+- Interactive Features
+- Project Showcase
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -90,31 +87,88 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD-Finals
 └─ assets
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|   |   └─ fileWith.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ script.js
+|       └─ bga.jpg
+|       └─ bgb.jpg
+|       └─ homehomepage.gif
+|       └─ homepage.gif
+|       └─ logo.png
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+|  └─ aboutme
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |     └─ 1.png
+|  |  |     └─ 2.png
+|  |  |     └─ 3.png
+|  |  |     └─ 4.png
+|  |  |     └─ 5.png
+|  |  |     └─ 6.png
+|  |  |     └─ 7.png
+|  |  |     └─ background.gif
+|  |  |     └─ fb.webp
+|  |  |     └─ ig.webp
+|  |  |     └─ logo.png
+|  |  |     └─ nicolle.jpg
+|  |  |     └─ twtr.webp
+|  |  └─ index.html
+|  └─ contact
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |     └─ bgd.jpg
+|  |  |     └─ bgh.png
+|  |  |     └─ logo.png
+|  |  └─ index.html
+|  └─ otherwork
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ doc
+|  |  |  |  └─ work1.pdf
+|  |  |  |  └─ work2.pdf
+|  |  |  |  └─ work3.pdf
+|  |  |  └─ img
+|  |  |     └─ bgf.gif
+|  |  |     └─ work1.jpg
+|  |  |     └─ work2.jpg
+|  |  |     └─ work3.jpg
+|  |  └─ index.html
+|  └─ projects
+|  |  └─ assets
+|  |  |  └─ css
+|  |  |  |  └─ style.css
+|  |  |  └─ img
+|  |  |     └─ a.jpg
+|  |  |     └─ b.png
+|  |  |     └─ bge.jpg
+|  |  |     └─ c.jpg
+|  |  |     └─ d.jpg
+|  |  └─ index.html
 └─ index.html
-└─ readme.md
+└─ README.md
 ```
-
+### My Projects
+Explore my project repository:
+- [WD-Hands on 1(midterm)](https://github.com/nicollechoy/WD-Midterms.git)
+- [WD-Hands On 2](https://github.com/nicollechoy/WD-HandsOn2-Choy.git)
+- [WD-Seatwork 2](https://github.com/nicollechoy/WD-Choy.git)
+- [WD-Seatwork 3](https://github.com/nicollechoy/WD-SW3.git)
+- [WD-Seatwork 4](https://github.com/nicollechoy/WD-SW4.git)
 ## Resources
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Pinterest | Got background images | https://ph.pinterest.com/ |
+| GoogleFonts | Got fonts | https://fonts.google.com/ |
+| Github | Got some features from my previous projects | https://github.com/nicollechoy |
+| Canva | Used to edit images for icons | https://www.canva.com/ |
+
+## Wakatime
