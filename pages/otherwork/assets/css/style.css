@@ -63,10 +63,13 @@
 }
 
 body {
-  font-family: var(--body-font);
-  background-color: var(--body-color);
-  color: var(--text-color);
-}
+    font-family: var(--body-font);
+    background-color: var(--body-color);
+    background-image: url('/pages/otherwork/assets/img/bgf.gif');
+    background-size: cover;
+    background-position: center;
+    color: var(--text-color);
+  }
 
 img {
   display: block;
