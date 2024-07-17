@@ -47,6 +47,9 @@ This website works as a complete portfolio that shows off creativity and technic
     <li>
       <a href="#resources">Resources</a>
     </li>
+        <li>
+      <a href="#wakatime">Wakatime</a>
+    </li>
   </ol>
 </details>
 
