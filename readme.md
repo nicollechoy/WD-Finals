@@ -52,7 +52,7 @@ This website works as a complete portfolio that shows off creativity and technic
 
 ---
 
-## Overview
+### Overview
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
@@ -171,4 +171,8 @@ Explore my project repository:
 | Github | Got some features from my previous projects | https://github.com/nicollechoy |
 | Canva | Used to edit images for icons | https://www.canva.com/ |
 
-## Wakatime
+### Wakatime
+### Coding Activity
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018f02fa-4de7-43b2-8403-cb473f551c83/cec68102-1fdf-4948-aff2-1b3e7c2d5650.png" /></a>
+### Languages
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018f02fa-4de7-43b2-8403-cb473f551c83/e2740fbe-055d-47a5-a7c0-6203733e96e9.png" /></a>
